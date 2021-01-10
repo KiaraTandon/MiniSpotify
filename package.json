@@ -1,0 +1,58 @@
+{
+  "name": "musify",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.21.1",
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "concurrently": "^5.2.0",
+    "cors": "^2.8.5",
+    "css-waves": "^0.2.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "heroku": "^7.42.1",
+    "node-fetch": "^2.6.0",
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4",
+    "react": "^16.13.1",
+    "react-audio-player": "^0.13.0",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.13.1",
+    "react-h5-audio-player": "^3.2.0",
+    "react-infinite-scroll-component": "^5.0.5",
+    "react-notification-component": "^1.1.4",
+    "react-notifications-component": "^2.4.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-spotify-login": "^0.9.1",
+    "redux": "^4.0.5"
+  },
+  "scripts": {
+    "start": "concurrently \"react-scripts start\" \"nodemon backend/server.js\"",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}

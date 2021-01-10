@@ -1,0 +1,49 @@
+.hscroll {
+  display: flex;
+  overflow-x: auto;
+  margin-bottom: 80px;
+}
+
+.hscroll::-webkit-scrollbar {
+  display: none;
+}
+
+.main {
+  background-color: black;
+}
+
+.welcome {
+  background-color: black;
+  color: rgb(250, 250, 250);
+  height: 40vh;
+  overflow-x: hidden;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.imgur.com/OqH4GUk.jpg");
+  position: relative;
+}
+
+.wtext {
+  height: 20vh;
+  font-size: 60px;
+  margin-top: 80px;
+}
+
+.wave {
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+}
+
+.profile {
+  cursor: pointer;
+  position: relative;
+}
+
+.navbg {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i.imgur.com/OqH4GUk.jpg");
+}
+
+.click {
+  cursor: pointer;
+}

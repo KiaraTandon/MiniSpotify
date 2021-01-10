@@ -1,0 +1,39 @@
+.leftp {
+  flex: 50%;
+  /* background-image: url("https://ekladata.com/iYqZt7lv3lJP8g84eRAAEJZXbVA/music.gif"); */
+  background-image: url("https://i.pinimg.com/originals/06/bd/f8/06bdf8ad69ff62062ae7dceb250d8866.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow-y: scroll;
+  position: relative;
+  height: 75vh;
+  background-color: black;
+  font-size: x-small;
+  width: 40vw;
+}
+
+.right {
+  flex: 50%;
+  overflow-y: scroll;
+  position: relative;
+  height: 75vh;
+  width: 60vw;
+  background-color: black;
+  text-align: left;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  padding-right: 30px;
+}
+
+.leftp::-webkit-scrollbar {
+  display: none;
+}
+
+.right::-webkit-scrollbar {
+  display: none;
+}
+
+.wrapper {
+  background-color: cornsilk;
+}

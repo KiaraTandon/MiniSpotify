@@ -1,0 +1,172 @@
+.artist {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+}
+
+.gradient {
+  background: -webkit-radial-gradient(
+    top center,
+    ellipse cover,
+    rgba(25, 180, 252, 0.2) 0%,
+    rgba(26, 2, 65, 0.5) 100%
+  );
+
+  position: relative;
+}
+
+.box {
+  background-color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.click {
+  cursor: pointer;
+}
+
+#a0 {
+  transition: 0.3s;
+}
+#a0:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a1 {
+  transition: 0.3s;
+}
+#a1:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a2 {
+  transition: 0.3s;
+}
+#a2:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a3 {
+  transition: 0.3s;
+}
+#a3:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a4 {
+  transition: 0.3s;
+}
+#a4:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a5 {
+  transition: 0.3s;
+}
+#a5:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a6 {
+  transition: 0.3s;
+}
+#a6:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a7 {
+  transition: 0.3s;
+}
+#a7:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a8 {
+  transition: 0.3s;
+}
+#a8:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a9 {
+  transition: 0.3s;
+}
+#a9:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a10 {
+  transition: 0.3s;
+}
+#a10:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a11 {
+  transition: 0.3s;
+}
+#a11:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a12 {
+  transition: 0.3s;
+}
+#a12:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a13 {
+  transition: 0.3s;
+}
+#a13:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a14 {
+  transition: 0.3s;
+}
+#a14:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a15 {
+  transition: 0.3s;
+}
+#a15:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a16 {
+  transition: 0.3s;
+}
+#a16:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a17 {
+  transition: 0.3s;
+}
+#a17:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a18 {
+  transition: 0.3s;
+}
+#a18:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
+#a19 {
+  transition: 0.3s;
+}
+#a19:hover {
+  transform: scale(1.2);
+  border: 4px solid rgb(255, 255, 255);
+}
